@@ -28,87 +28,74 @@ Graphs were produced with a modified version of the `calibrate_shaper.py` script
 
 
 ## Setup
+Table saw with added mass|Workbench|Foam Box
+-|-|-
+![](https://github.com/StrikeEagleCC/3D_Printing/blob/main/k3/images/resonance_tests/printer_on_saw_with_added_mass.jpg)|![](https://github.com/StrikeEagleCC/3D_Printing/blob/main/k3/images/resonance_tests/printer_on_braced_bench.jpg)|![](https://github.com/StrikeEagleCC/3D_Printing/blob/main/k3/images/resonance_tests/printer_on_foam_box.jpg)
 
-### Tables
+Screw Feet|Soft Feet|Hard Feet
+-|-|-
+![](https://github.com/StrikeEagleCC/3D_Printing/blob/main/k3/images/resonance_tests/screw_feet.jpg)|![](https://github.com/StrikeEagleCC/3D_Printing/blob/main/k3/images/resonance_tests/soft_feet.jpg)|![](https://github.com/StrikeEagleCC/3D_Printing/blob/main/k3/images/resonance_tests/hard_feet.jpg)
 
-Table Saw
-
-image
-
-Bench
-
-image
-
-Braced Bench
-
-image
-
-Foam box
-
-image
-
-
-
-### Feet
-
-Screws
-
-image
-
-Soft Feet
-
-image
-
-Hard Feet
-
-image
-
-
-
-## Tests
 
 ### Test 1:
-
 Setup: table saw, screw feet, even pressure
 
-results image
+<img src="https://github.com/StrikeEagleCC/3D_Printing/blob/main/k3/images/resonance_tests/01_x_saw_screws_shimmed.png" width="400" /><img src="https://github.com/StrikeEagleCC/3D_Printing/blob/main/k3/images/resonance_tests/01_y_saw_screws_shimmed.png" width="400" />
 
-Notes: These results are highly unusual, and were not repeatable later. Why this test is such a dramatic outlier is unclear.
+Notes: These results are highly unusual, and were not repeatable. Why this test is such a dramatic outlier is unclear.
+
 
 ### Test 2:
-
 Setup: table saw, soft feet, even pressure
 
-### Test 3:
+<img src="https://github.com/StrikeEagleCC/3D_Printing/blob/main/k3/images/resonance_tests/02_x_saw_soft_feet_shimmed.png" width="400" /><img src="https://github.com/StrikeEagleCC/3D_Printing/blob/main/k3/images/resonance_tests/02_y_saw_soft_feet_shimmed.png" width="400" />
 
+
+### Test 3:
 Setup: table saw, soft feet, uneven pressure
 
-### Test 4:
+<img src="https://github.com/StrikeEagleCC/3D_Printing/blob/main/k3/images/resonance_tests/03_x_saw_soft_feet_unshimmed.png" width="400" /><img src="https://github.com/StrikeEagleCC/3D_Printing/blob/main/k3/images/resonance_tests/03_y_saw_soft_feet_unshimmed.png" width="400" />
 
+
+### Test 4:
 Setup: table saw, hard feet, even pressure
 
-### Test 5:
+<img src="https://github.com/StrikeEagleCC/3D_Printing/blob/main/k3/images/resonance_tests/04_x_saw_hard_feet_shimmed.png" width="400" /><img src="https://github.com/StrikeEagleCC/3D_Printing/blob/main/k3/images/resonance_tests/04_y_saw_hard_feet_shimmed.png" width="400" />
 
+
+### Test 5:
 Setup: table saw, hard feet, uneven pressure
 
-### Test 6:
+<img src="https://github.com/StrikeEagleCC/3D_Printing/blob/main/k3/images/resonance_tests/05_x_saw_hard_feet_unshimmed.png" width="400" /><img src="https://github.com/StrikeEagleCC/3D_Printing/blob/main/k3/images/resonance_tests/05_y_saw_hard_feet_unshimmed.png" width="400" />
 
+
+### Test 6:
 Setup: table saw, screw feet, even pressure
+
+<img src="https://github.com/StrikeEagleCC/3D_Printing/blob/main/k3/images/resonance_tests/06_x_saw_screws_shimmed.png" width="400" /><img src="https://github.com/StrikeEagleCC/3D_Printing/blob/main/k3/images/resonance_tests/06_y_saw_screws_shimmed.png" width="400" />
 
 Notes: This test was an attempt to replicate the first test.
 
-### Test 7:
 
+### Test 7:
 Setup: table saw, screw feet, uneven pressure
 
-### Test 8:
+<img src="https://github.com/StrikeEagleCC/3D_Printing/blob/main/k3/images/resonance_tests/07_x_saw_screws_unshimmed.png" width="400" /><img src="https://github.com/StrikeEagleCC/3D_Printing/blob/main/k3/images/resonance_tests/07_y_saw_screws_unshimmed.png" width="400" />
 
+
+### Test 8:
 Setup: un-braced bench, hard feet, even pressure
 
-### Test 9:
+<img src="https://github.com/StrikeEagleCC/3D_Printing/blob/main/k3/images/resonance_tests/08_x_bench_hard_feet_shimmed.png" width="400" /><img src="https://github.com/StrikeEagleCC/3D_Printing/blob/main/k3/images/resonance_tests/08_y_bench_hard_feet_shimmed.png" width="400" />
 
+
+### Test 9:
 Setup: braced bench, hard feet, even pressure
 
-### Test 10:
+<img src="https://github.com/StrikeEagleCC/3D_Printing/blob/main/k3/images/resonance_tests/09_x_bench_braced_hard_feet_shimmed.png" width="400" /><img src="https://github.com/StrikeEagleCC/3D_Printing/blob/main/k3/images/resonance_tests/09_y_bench_braced_hard_feet_shimmed.png" width="400" />
 
+
+### Test 10:
 Setup: foam box, hard feet, even pressure
+
+<img src="https://github.com/StrikeEagleCC/3D_Printing/blob/main/k3/images/resonance_tests/10_x_foam_box_hard_feet_unshimmed.png" width="400" /><img src="https://github.com/StrikeEagleCC/3D_Printing/blob/main/k3/images/resonance_tests/10_y_foam_box_hard_feet_unshimmed.png" width="400" />
