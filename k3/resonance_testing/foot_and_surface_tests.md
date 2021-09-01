@@ -1,14 +1,14 @@
 # How is printer resonance affected by different foot materials, equal/unequal pressure on the feet, and the stability of the surface the printer rests on?
 
-The following battery of resonance tests were conducted in the space of a few hours. There were no changes to any moving mass or belt tension between tests. In fact, there were no mechanical changes at all between tests. However, the printer was powered off between some tests.
+The following battery of resonance tests were conducted in the space of a few hours. There were no changes to any moving mass or belt tension between tests. The only variables deliberately in play were the foot material, how the feet were shimmed, and what surface the printer was sitting on. The printer was powered off between some tests.
 
 Prior to conducting these tests, every screw in the gantry and tool head was tightened, with the exception of the screws holding the spacers to the Y rails. The tests were conducted with all panels installed, but without the top hat.
 
-The acelerometer was mounted on the side of the hotend heatsink (facing the front of the printer). It was secured with 3M VHB tape and a zip tie around the heatsink. The axes were mapped in the klipper configuration to match the installed orientation.
+The acelerometer was mounted on the side of the hotend heatsink (facing the front of the printer). It was secured with 3M VHB tape and also a zip tie around the heatsink. The axes were mapped in the klipper configuration to match the installed orientation.
 
 Three "table" surfaces were tested:
 
-1. The most stable is on top of a heavy table saw, with additional mass added. The saw is extremely stable and with the added mass on the top, weighs approximately 200kg.
+1. A table saw with additional mass added. The saw is extremely stable and with the added mass on the top, weighs approximately 200kg.
 2. A sturdy workbench, which although heavy, is a bit wobbly in the Y-axis of the printer.
 3. The same workbench, but shimmed against the wall to add stability.
 4. A large foam box, previously a dubious printer enclosure. The box is flexible in all axes and flexed significantly under the weight of the printer.
@@ -16,7 +16,7 @@ Three "table" surfaces were tested:
 Three types of feet were tested with the printer on the table saw:
 
 1. Bare screws
-2. Soft feet. These are the standard K3 foot body, but printed in TPU, and without the cushioned inserts.
+2. Soft feet. These are the standard K3 foot body, but printed in TPU, and without the inserts.
 3. Hard feet. Standard K3 foot body printed in ASA, with TPU inserts
 
 For each foot type and on the table saw, resonance tests were done with the feet shimmed such that each foot had even pressure and also with the feet shimmed such that the feet had uneven pressure. Gauging of pressure was done "by feel". With the screw and hard feet, uneven pressure meant that one foot was slightly off the table surface. With soft feet, there was enough flex in the feet that even with significantly uneven loading, every foot was still in contact with the table surface.
