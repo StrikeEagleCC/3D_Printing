@@ -7,12 +7,12 @@ The purpose of these tests was to compare how much deflection of the toolhead wa
 1. 16 20awg conductors stripped from a found cable: SMC IZS41-CPZ
     1. each conductor is very high strand count and has fairly thin but rigid insulation, presumably PVC.
     1. the conductors are bundled loosely in 15mm id braided sleeving
-1. igus chainflex CF130-05-18-UL (McMaster P/N 8082K12)
+1. igus chainflex CF130-05-18-UL ([McMaster](https://www.mcmaster.com/8082K15/),[igus](https://www.igus.com/product?artNr=CF130-05-18-UL))
     1. 18 conductors, 20awg
-1. Hua Xun Tong TRVV 300/300V 16x0.5mm^2 (AliExpress)
+1. Hua Xun Tong TRVV 300/300V 16x0.5mm^2 ([AliExpress](https://www.aliexpress.com/item/4000785485299.html?spm=a2g0o.productlist.0.0.1e465046fgzUNI&algo_pvid=666d82f1-6bb2-4d2b-871c-c2151e893432&algo_exp_id=666d82f1-6bb2-4d2b-871c-c2151e893432-2&pdp_ext_f=%7B%22sku_id%22%3A%2210000007818111643%22%7D))
 1. 3 cable bundle from automation direct
-    1. 2 runs Quabbin continuous flexing Cat5e industrial Ethernet (automation direct P/N Q5752-1)
-    1. 1 run igus chainflex CF9-03-03 (automation direct P/N CF5-05-03-1)
+    1. 2 runs Quabbin continuous flexing Cat5e industrial Ethernet ([automation direct](https://www.automationdirect.com/adc/shopping/catalog/cables/bulk_multi-conductor_cable/continuous_flexing_industrial_ethernet_cable/unshielded/q5752-1))
+    1. 1 run igus chainflex CF9-03-03 ([automation direct](https://www.automationdirect.com/adc/shopping/catalog/cables/bulk_multi-conductor_cable/continuous_flexing_control_cable/20_awg_unshielded/cf5-05-03-1))
     1. jackets not removed, bundle loosely within 15mm id braided sleeve
 
 
